@@ -1198,6 +1198,7 @@ var cnames_active = {
   "lingui": "lingui.github.io/js-lingui",
   "lister": "jpbulman.github.io/lister",
   "litedom": "mardix.github.io/litedom", // noCF
+  "liudun": "haveataste.github.io/liudun",
   "liuence": "lxyzai.github.io/liuence",
   "live-editor": "geard-dev.github.io/web-based-live-code-editor",
   "liveflow": "hasharray.github.io/liveflow.js",
@@ -1936,6 +1937,7 @@ var cnames_active = {
   "serviceberry": "bob-gray.github.io/serviceberry",
   "sesam": "lennertderyck.github.io/sesam",
   "share": "jeff-tian.github.io/weshare",
+  "sharec": "lamartire.github.io/sharec",
   "shareon": "NickKaramoff.github.io/shareon",
   "sheet": "sheetjs.github.io/sheet.js.org",
   "shekhar": "shekharreddy4.github.io/Shekhar",
